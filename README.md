@@ -9,11 +9,6 @@ EasySchool consists of a React frontend, a PHP backend (version 8) with an MVC a
 ## Features
 
 - **User Roles**: Teacher, Student, Parent
-- **Sections**:
-  - [For Teacher](./teacher.md)
-  - [For Student](./student.md)
-  - [For Parent](./parent.md)
-  - [Other](./other.md)
 - **Login & Registration**: Allows users to log in or create a new account.
 - **Password Security**: Passwords are encrypted for secure storage.
 - **Messaging**: Users can send messages to each other within the system.
